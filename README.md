@@ -1,5 +1,7 @@
 # no_ctrl v0.1
 
+# WIP - not useful right now!
+
 A kernel exploit for PS5 firmware <=10.40 via stack use-after-free in the fsc2h_ctrl syscall.
 
 ## Overview
